@@ -68,7 +68,7 @@ Explain the concept of modularity in software design. How does it improve mainta
 
 Modularity is dividing a software system into discrete modules that can be developed, tested and maintained independently.
 
-Benefits:
+Benefits:-
 
 Maintainability: Easier to manage and update individual modules.
 Scalability: Modules can be scaled independently.
